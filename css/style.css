@@ -3,6 +3,7 @@
 :root{
     --main-color:#ff0066;
     --black:#141215;    
+    /* --black:white;  */
 }
 *{
     font-family: 'Poppins',sans-serif;
